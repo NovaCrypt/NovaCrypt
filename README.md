@@ -25,19 +25,22 @@ WIP
 
 WIP
 
-# <!-- For the small horizontal line, leave blank... >
+# 
+<!-- For the small horizontal line, leave blank... -->
 
 ### My Repositories
 
 WIP
 
-# <!-- For the small horizontal line, leave blank... >
+# 
+<!-- For the small horizontal line, leave blank... -->
 
 ### My Graphic Designs
 
 WIP
 
-# <!-- For the small horizontal line, leave blank... >
+# 
+<!-- For the small horizontal line, leave blank... -->
 
 ### Git Stats
 
