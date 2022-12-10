@@ -1,4 +1,4 @@
-### Hi there 👋
+# NovaCrypt
 
 <!--
 **NovaCrypt/NovaCrypt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+**Digital Craftsman (Developer/Graphic Designer)**
+
+WIP
+
+---
+
+### Languages & Tools
+
+WIP
+
+# <!-- For the small horizontal line, leave blank... >
+
+### My Repositories
+
+WIP
+
+# <!-- For the small horizontal line, leave blank... >
+
+### My Graphic Designs
+
+WIP
+
+# <!-- For the small horizontal line, leave blank... >
+
+### Git Stats
+
+WIP
