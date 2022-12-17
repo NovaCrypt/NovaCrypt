@@ -51,20 +51,13 @@ All graphical content is created the same way, from inspiration and planning, al
 # 
 <!-- For the small horizontal line, leave blank... -->
 
-### My Repositories
+<!-- ### My Graphic Designs
 
 WIP
 
-# 
-<!-- For the small horizontal line, leave blank... -->
-
-### My Graphic Designs
-
-WIP
-
-# 
+# -->
 <!-- For the small horizontal line, leave blank... -->
 
 ### Git Stats
 
-WIP
+![Oliver's GitHub stats](https://github-readme-stats.vercel.app/api?username=novacrypt&show_icons=true&theme=gruvbox)
