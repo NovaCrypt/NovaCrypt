@@ -48,14 +48,13 @@ All graphical content is created the same way, from inspiration and planning, al
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
-# 
+#
 <!-- For the small horizontal line, leave blank... -->
 
 <!-- ### My Graphic Designs
 
 WIP
 
-# -->
 <!-- For the small horizontal line, leave blank... -->
 
 ### Git Stats
